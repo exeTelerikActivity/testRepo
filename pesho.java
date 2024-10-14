@@ -3,6 +3,7 @@ public class pesho {
         System.out.println("Dankata!!!");
 
         System.out.println("Kiro!!!");
+        System.out.println("Ivan!");
 
     }
 
